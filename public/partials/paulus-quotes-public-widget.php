@@ -16,7 +16,7 @@
 
     <?php if ($instance['showReading'] && isset($data['reading']) && ! empty($data['reading'])): ?>
         <p class="EdycjaPlWidget-reading">
-            <a href="http://mateusz.pl/czytania/<?= $now->format('Y') ?>/<?= $now->format('Ymd') ?>.html"
+            <a href="http://www.paulus.org.pl/czytania?data=<?= $now->format('Y-m-d') ?>"
                target="_blank">
                 <?= $data['reading']; ?>
             </a>

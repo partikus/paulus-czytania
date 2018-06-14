@@ -3,12 +3,12 @@ Contributors: clearcodeeu
 Donate link: http://clearcode.eu
 Tags: bible, quote, quotes, polish, biblia, sigla, czytania, pismo święte
 Requires at least: 4.0
-Tested up to: 4.6
+Tested up to: 4.8
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Ta wtyczka pozwala na dodanie widgetu, który wyświetla cytat, czytania na dany dzień oraz sigla biblijne.
+Ta wtyczka pozwala na dodanie widgetu, który wyświetla cytat, czytania na dany dzień oraz sigle biblijne.
 
 == Description ==
 
